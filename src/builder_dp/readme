@@ -1,0 +1,3 @@
+Builder is ac creational design pattern that helps you to create object with a large number
+of parameters.
+StringBuilder API is the most common example.

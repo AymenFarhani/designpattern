@@ -1,0 +1,2 @@
+The State design pattern suggests creating new classes for all the possible states of an object
+and extracting all state-specific behaviors into these classes.

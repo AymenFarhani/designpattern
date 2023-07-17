@@ -1,0 +1,8 @@
+The Flyweight Design Pattern is a Structural Design Pattern and one of the Gang of Four design patterns.
+The Flyweight pattern is used to minimize the memory usage by sharing as much data as possible with other similar objects.
+The Flyweight pattern provides a way to reduce the number of objects created
+and to decrease memory footprint and increase performance.
+The Flyweight pattern tries to reuse already existing similar kind objects by storing them in a collection
+which act like a cache and creates new object when no matching object is found.
+The Flyweight objects we create as immutable. This means that they cannot be modified once they have been constructed.
+ Making flyweight objects as immutable helps while sharing them with other objects.
